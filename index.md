@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## 首页
 
-You can use the [editor on GitHub](https://github.com/keadd/keadd.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+> 本文全文采用Markdown格式
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+创建这个网页其实也没别的，只是在GitHub上基本人手一个Page，那我怎么没有一个呢，对吧，于是我便弄了一个
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## About Me
 
-[Link](url) and ![Image](src)
+~~一 个 什 么 都 不 会 的 人~~
+
+一个普通人，目前还未发现闪光点
+
+
+
+## Call Me
+
+我想应该没有人会来联系我的，但还是留一个吧
+
+
++ Mail：andzero@163.com
+
++ GitHub：[https://github.com/keadd](https://github.com/keadd)
+
+
+
+最后附上
+
+Java 主程序入口：
+
+```java
+public class HelloWorld {
+    public static void main(String[] args){
+        System.out.println("Hello World!");
+    }
+}
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/keadd/keadd.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<br/>
 
-### Support or Contact
+`·_·`
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
