@@ -1,8 +1,10 @@
-## 首页
+# 首页
 
 
 
-> 本文全文采用Markdown格式
+> 本站使用 Jekyll 搭建，托管于 GitHub Pages 
+>
+> 全文使用 Markdown 编写
 
 
 
@@ -14,7 +16,7 @@
 
 ~~一 个 什 么 都 不 会 的 人~~
 
-一个普通人，目前还未发现闪光点
+一个普通人，暂未发现闪光点
 
 
 
@@ -23,9 +25,9 @@
 我想应该没有人会来联系我的，但还是留一个吧
 
 
-+ Mail：andzero@163.com
++ Mail ：andzero@163.com
 
-+ GitHub：[https://github.com/keadd](https://github.com/keadd)
++ GitHub ：[https://github.com/keadd](https://github.com/keadd)
 
 
 
