@@ -1,5 +1,3 @@
-## 首页
-
 <br/>
 
 > 本站使用 Jekyll 搭建，托管于 GitHub Pages 
